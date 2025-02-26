@@ -39,10 +39,11 @@ p {
 
 .card {
     width: 320px;
-    height: 499px;
-    border-radius: 20px;;
+    height: 483px;
+    border-radius: 20px;
     padding-top: 16px;
     background-color: var(--White);
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
 }
 
 .card__image{
